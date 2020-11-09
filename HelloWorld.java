@@ -8,6 +8,6 @@
 \f0\fs24 \cf0 class HelloWorld \{\
 	\
 	public static void main (String [] args)\{\
-		System.out.println(\'93Hello World\'93);\
+		System.out.println(\'932 Jahre\'93);\
 	\}\
 \}}
